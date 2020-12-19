@@ -1,4 +1,7 @@
 # hello-world-vue
+<p align="center">
+    <img src="./src/assets/logo.png">
+</p>
 
 ## Project setup
 ```
